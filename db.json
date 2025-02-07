@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Cheerios",
+      "price": 8.43
+    },
+    {
+      "id": "2",
+      "title": "Cornflakes",
+      "price": 2.52
+    },
+    {
+      "id": "3",
+      "title": "Frosties",
+      "price": 5.99
+    },
+    {
+      "id": "4",
+      "title": "Shreddies",
+      "price": 6.49
+    },
+    {
+      "id": "5",
+      "title": "Weetabix",
+      "price": 9.98
+    }
+  ]
+}
